@@ -14,12 +14,17 @@ Ce projet a été réalisé en tant que **Proof of Concept (PoC)** pour une équ
 
 Le projet a été planifié sur **5 jours**. Le travail a été structuré en phases logiques pour assurer la traçabilité et le respect des délais.
 
+
+
 | ID Tâche | Description de la Tâche | Statut | Estimation (Jours) |
 |----------|-------------------------|--------|---------------------|
-| DL-01 | [Data] Chargement, Inspection et Normalisation de Fashion MNIST | ✅ Terminé |  2|
-| DL-02 | [Model] Construction et Compilation de l'Architecture DNN | ✅ Terminé | 1|DL-03 | [Train] Entraînement du Modèle avec EarlyStopping | ✅ Terminé | 1h |
-| DL-04 | [Eval] Évaluation finale de la Précision sur l'ensemble de Test | ✅ Terminé | 1 |
-| DL-05 | [Doc] Rédaction de la Synthèse des choix et Benchmark Hugging Face | ✅ Terminé | 1 |
+| **DL-01** | [Data] Chargement, Inspection et Normalisation de Fashion MNIST | ✅ Terminé | 1 |
+| **DL-02** | [Model] Construction et Compilation de l'Architecture DNN | ✅ Terminé | 1 |
+| **DL-03** | [Train] Entraînement du Modèle avec EarlyStopping | ✅ Terminé | 1 |
+| **DL-04** | [Eval] Évaluation finale de la Précision sur l'ensemble de Test | ✅ Terminé | 1 |
+| **DL-05** | [Doc] Rédaction de la Synthèse des choix et Benchmark Hugging Face | ✅ Terminé | 1 |
+
+
 
 ## 3. Pipeline Technique : Chargement et Préparation des Données
 
